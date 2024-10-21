@@ -47,9 +47,7 @@ ii)	Create Schematic Cell view.
 	Create Input and Output pins
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
-![WhatsApp Image 2024-10-20 at 22 35 11_f2e1f18d](https://github.com/user-attachments/assets/08bb4bd9-30e4-45a5-88a5-8c2322fdfb8a)
-
-
+![Uploading WhatsApp Image 2024-10-21 at 11.04.07_198f11e6.jpg…]()
 
  
 iii)	Creating the Symbol for schematic Cell view
